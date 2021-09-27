@@ -1,0 +1,22 @@
+{
+  "name": "@xdr42/gh-pkg-actions",
+  "version": "1.0.0",
+  "description": "Test of github actinons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"MOCK: TESTING TESTING!!!\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xdr84/gh-pkg-actions.git"
+  },
+  "publishConfig": {
+    "@xdr42:registry": "https://npm.pkg.github.com"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xdr84/gh-pkg-actions/issues"
+  },
+  "homepage": "https://github.com/xdr84/gh-pkg-actions#readme"
+}
